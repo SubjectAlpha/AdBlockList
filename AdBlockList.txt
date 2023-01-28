@@ -178,3 +178,7 @@ facebook.net
 *.innovid.com
 *.teracent.com
 *.sizmek.com
+web.facebook.com
+cdn10.trafficjunky.net
+static.trafficjunky.com
+*.trafficjunky.com
